@@ -1,7 +1,12 @@
-# 🏀 QuickCourt – Admin & Facility Management Platform
+🏟️ QuickCourt – Book. Play. Connect.
 
 > **Hackathon Project for Odoo Hackathon**  
 > Built with ❤️ by Team QuickCourt
+
+## QuickCourt is a full-stack web application that empowers sports enthusiasts to discover and book local sports facilities like badminton courts, turf grounds, and tennis tables. Designed for seamless user experience and community engagement, the platform supports three key roles:
+- Users can book venues and join matches
+- Facility Owners manage their sports spaces and bookings
+- Admins oversee approvals and user management
 
 ---
 
@@ -11,12 +16,6 @@
 
 ---
 
-## 📌 Overview
-QuickCourt is a web-based platform designed to simplify **sports facility management, user bookings, and admin monitoring**.  
-The platform enables:
-- Facility owners to list and manage sports courts.
-- Users to search, book, and pay for courts online.
-- Admins to monitor platform activity, approve facilities, manage users, and generate reports.
 
 This project was developed as part of the **Odoo Hackathon**.
 
@@ -28,6 +27,7 @@ This project was developed as part of the **Odoo Hackathon**.
 <img width="1908" height="767" alt="image" src="https://github.com/user-attachments/assets/c08aa1de-0efa-415b-848b-4717ea7760f2" />
 <img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/7bff8970-333f-4b0e-90b1-fc7dc7357053" />
 <img width="1913" height="801" alt="image" src="https://github.com/user-attachments/assets/68c455de-3dc2-4794-be4b-e244ab564203" />
+
 
 
 ## 🚀 Features
