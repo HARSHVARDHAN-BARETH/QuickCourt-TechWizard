@@ -1,4 +1,4 @@
-🏟️ QuickCourt – Book. Play. Connect.
+## 🏟️ QuickCourt – Book. Play. Connect.
 
 > **Hackathon Project for Odoo Hackathon**  
 > Built with ❤️ by Team QuickCourt
