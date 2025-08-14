@@ -21,6 +21,14 @@ The platform enables:
 This project was developed as part of the **Odoo Hackathon**.
 
 ---
+<img width="1892" height="857" alt="image" src="https://github.com/user-attachments/assets/80adaa67-88c8-4688-a506-8d71d47e0d6e" />
+<img width="1912" height="862" alt="image" src="https://github.com/user-attachments/assets/3d2fe896-465f-4428-8eb1-ba33efd7c72d" />
+<img width="1892" height="765" alt="image" src="https://github.com/user-attachments/assets/a53187a1-07ac-41dc-a322-caebc952f7c8" />
+<img width="1910" height="780" alt="image" src="https://github.com/user-attachments/assets/66f48338-218e-455c-823b-98ba13ab564e" />
+<img width="1908" height="767" alt="image" src="https://github.com/user-attachments/assets/c08aa1de-0efa-415b-848b-4717ea7760f2" />
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/7bff8970-333f-4b0e-90b1-fc7dc7357053" />
+<img width="1913" height="801" alt="image" src="https://github.com/user-attachments/assets/68c455de-3dc2-4794-be4b-e244ab564203" />
+
 
 ## 🚀 Features
 
