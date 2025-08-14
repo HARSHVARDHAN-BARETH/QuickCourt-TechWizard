@@ -3,7 +3,7 @@
 > **Hackathon Project for Odoo Hackathon**  
 > Built with ❤️ by Team QuickCourt
 
-## QuickCourt is a full-stack web application that empowers sports enthusiasts to discover and book local sports facilities like badminton courts, turf grounds, and tennis tables. Designed for seamless user experience and community engagement, the platform supports three key roles:
+# QuickCourt is a full-stack web application that empowers sports enthusiasts to discover and book local sports facilities like badminton courts, turf grounds, and tennis tables. Designed for seamless user experience and community engagement, the platform supports three key roles:
 - Users can book venues and join matches
 - Facility Owners manage their sports spaces and bookings
 - Admins oversee approvals and user management
